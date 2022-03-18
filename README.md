@@ -2,14 +2,15 @@
 
 -----
 
-- I am a Computer Information Technology, Cybersecurity, and Forensic Sciences student at Purdue University.
-- I am an aspiring Cloud Infrastructure and Security Engineer.
-- I love coding, teaching, and learning new things.
-- Feel free to reach out to me to discuss careers, technology, and coding.
+- 🙂 I am a Computer Information Technology, Cybersecurity, and Forensic Science student at Purdue University.
+- 🔭 I am an aspiring DevOps Engineer, and Site Reliability Engineer.
+- ❤️ I love coding, teaching, and learning new things.
+- 💬 Feel free to reach out to me to discuss careers, technology, and coding.
+- 🌱 I'm currently working on improving my Swift UI, Python, and Systems Design skills.
 
 -----
 
-### Links
+### 📫 How to reach me
 #### [LinkedIn](https://www.linkedin.com/in/christian-ekeigwe-jr/), [Twitter](https://twitter.com/r1pp3rd0c)
 
 <!--
