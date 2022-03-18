@@ -10,7 +10,7 @@
 
 -----
 
-### 📫 How to reach me
+### 📫 How to reach me...
 #### [LinkedIn](https://www.linkedin.com/in/christian-ekeigwe-jr/), [Twitter](https://twitter.com/r1pp3rd0c)
 
 <!--
