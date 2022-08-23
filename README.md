@@ -2,9 +2,10 @@
 
 -----
 
-- 🙂 I am a Computer Information Technology, Cybersecurity, and Forensic Science student at Purdue University.
+- 🙂 I am a graduate student pursuing a Masters degree in Computer and Information Technology with a specialization in High-Performance Computing, Parrallel Computing and Cloud Computing with the aim of applying these technologies to the field of biometrics and/or aviation.
+- 📚 I have a Bachelors degree in Computer and Information Technology, Cybersecurity, and a minor in Forensic Science from Purdue University.
 - 🔭 I am an aspiring DevOps Engineer, and Site Reliability Engineer.
-- ❤️ I love coding, teaching, and learning new things.
+- ❤️ I love coding, teaching, photography, traveling, and learning new things.
 - 💬 Feel free to reach out to me to discuss careers, technology, and coding.
 - 🌱 I'm currently working on improving my Swift UI, Python, and Systems Design skills.
 
