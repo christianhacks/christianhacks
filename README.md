@@ -2,10 +2,10 @@
 
 -----
 
-- 🙂 I am a Post-Graduate student pursuing a certificate in Information Technology Project Management.
+- 🙂 I am an Information Technology Auditor @ Metrolinx
 - 📚 I have a Bachelors degree in Computer and Information Technology, Cybersecurity, and a minor in Forensic Science from Purdue University.
-- 🔭 I am an aspiring DevOps Engineer, and Site Reliability Engineer.
-- ❤️ I love coding, teaching, photography, traveling, and learning new things.
+- 🔭 I am an aspiring AI Audit & Governance specialist.
+- ❤️ I love teaching, photography, traveling, and learning new things.
 - 💬 Feel free to reach out to me to discuss careers, technology, and coding.
 - 🌱 I'm currently working on improving my Swift UI, Python, and Systems Design skills.
 
